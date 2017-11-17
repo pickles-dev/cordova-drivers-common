@@ -1,0 +1,21 @@
+{
+  "name": "cordova-drivers-common",
+  "version": "1.0.0",
+  "description": "Cordova Drivers Common",
+  "cordova": {
+    "id": "cordova-drivers-common",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pickles-dev/cordova-drivers-common"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-android"
+  ],
+  "author": "Pickles SA",
+  "license": "MIT"
+}
